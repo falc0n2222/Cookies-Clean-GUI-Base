@@ -23,8 +23,8 @@
 ## How to fix Bunifu errors
 - Download these 2 files:
 
-[Bunifu.Core.dll](https://cdn.discordapp.com/attachments/946881469844946984/958073286061867018/Bunifu.Core.dll)
-[Bunifu_UI_v1.5.3.dll](https://cdn.discordapp.com/attachments/946881469844946984/958073286548394095/Bunifu_UI_v1.5.3.dll)
+[Bunifu.Core.dll]([https://cdn.discordapp.com/attachments/946881469844946984/958073286061867018/Bunifu.Core.dll](https://cdn.discordapp.com/attachments/928700307339350076/985220016679039016/Bunifu.Core.dll))
+[Bunifu_UI_v1.5.3.dll]([https://cdn.discordapp.com/attachments/946881469844946984/958073286548394095/Bunifu_UI_v1.5.3.dll](https://cdn.discordapp.com/attachments/928700307339350076/985220017178169504/Bunifu_UI_v1.5.3.dll))
 (For this to be the exact same you need to have Visual Studio 2019 and not 2022)
 1. Left click on project then click "Add Reference"
 2. And there at bottom of menu you can find Browse
