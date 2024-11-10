@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" >
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" >
+  <img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" >
   <img src="https://img.shields.io/badge/license-MIT-yellow.svg" >
   <img src="https://img.shields.io/github/last-commit/Callumgm/Clean-GUI-Template">
   <a href="https://twitter.com/Flashouttt" target="_blank">
